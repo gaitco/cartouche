@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:maat_seshat/maat_seshat.dart';
+import 'package:seshat_maat/seshat_maat.dart';
 
 /// One row of `personal_access_tokens`.
 ///
