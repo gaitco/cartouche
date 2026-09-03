@@ -1,6 +1,6 @@
-import 'package:maat_seshat/maat_seshat.dart';
+import 'package:seshat_maat/seshat_maat.dart';
 
-/// The table `maat_cartouche` needs.
+/// The table `cartouche` needs.
 ///
 /// Exported as a list rather than published as a file: Dart has no
 /// directory scan, so an application's `database/migrations.dart` is the

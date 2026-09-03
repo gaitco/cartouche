@@ -1,6 +1,6 @@
 import 'package:maat/maat.dart';
-import 'package:maat_seshat/maat_seshat.dart';
-import 'package:maat_cartouche/maat_cartouche.dart';
+import 'package:seshat_maat/seshat_maat.dart';
+import 'package:cartouche/cartouche.dart';
 
 class User extends Model<User>
     with HasCartoucheTokens<User>

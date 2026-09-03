@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:maat/maat.dart';
-import 'package:maat_seshat/maat_seshat.dart';
+import 'package:seshat_maat/seshat_maat.dart';
 
 import 'personal_access_token.dart';
 import 'cartouche.dart';
