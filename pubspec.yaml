@@ -1,0 +1,13 @@
+name: maat_cartouche
+description: Personal access tokens for Maat applications.
+version: 0.1.0
+repository: https://github.com/gaitco/maat_cartouche
+environment:
+  sdk: ^3.12.0
+dependencies:
+  crypto: ^3.0.6
+  maat: ^0.1.0
+  maat_seshat: ^0.1.0
+dev_dependencies:
+  lints: ^6.1.0
+  test: ^1.31.2
