@@ -13,3 +13,4 @@ class User extends Model<User>
 Cartouche.provider('users', (id) => User.query().find(id));
 ```
 
+See the [Cartouche guide](../../docs/cartouche.md) for installation and usage.
